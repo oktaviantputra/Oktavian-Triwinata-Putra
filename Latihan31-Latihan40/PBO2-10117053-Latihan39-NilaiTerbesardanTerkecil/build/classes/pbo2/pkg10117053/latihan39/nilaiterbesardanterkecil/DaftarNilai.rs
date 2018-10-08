@@ -1,0 +1,2 @@
+pbo2.pkg10117080.latihan39.nilaterbesardanterkecil.DaftarNilai
+pbo2.pkg10117053.latihan39.nilaterbesardanterkecil.DaftarNilai
